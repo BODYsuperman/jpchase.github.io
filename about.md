@@ -14,7 +14,7 @@ Here is the source code <a target="_blank" href='https://github.com/BODYsuperman
 
 <h3> Problems</h3>  
 
-Checking [Support](https://leopardpan.cn/support/) for help
+Checking [Support](https://meijiaping.top/support/) for help
 
 Stay tuned!
 
