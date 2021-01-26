@@ -4,7 +4,7 @@ title: About me
 ---
 My name is JP.
 I've been working for more than four years as a data analyst in a company.
-Besides knowing SQL language,I am also intersted in Cloud tech like TCP/IP,Azure,GCP and web development such as H5,Pyhton.
+Besides knowing SQL language,I am also intersted in Cloud tech like Azure,GCP;development such as H5,Pyhton and TCP/IP.
 
 
 <h2> Our blog </h2>  
